@@ -1,2 +1,2 @@
 # whoops-hi
-Just one line code to track, guard and protect. 
+Just one lightning code to track, guard and protect. 
