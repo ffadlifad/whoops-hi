@@ -25,6 +25,7 @@ $var = [
     'Name' => ['name 1', 'name 2', 'name 3'],
     'Date' => ['date 1', 'date 2', 'date 3'],
     'family_tree' => ['parents', 'grandparents', 'great grandparents']
+    // ... etc
 ];
 
 case 'something': 
@@ -34,8 +35,8 @@ case 'something':
 
 How it work: **`Past << {time_range} >> Now`**
 
-## whoops-hi
-In 2026, whoops becomes Hi.
+## Hi
+In 2026, i found something and that's why whoops becomes Hi.
 
 ```php
 Hi, please check your intention. faith and honesty are required.
