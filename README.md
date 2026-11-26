@@ -9,10 +9,7 @@ try {
    do_something();
 
 } catch (\Throwable $th) {
-   // echo "Whoops, something went wrong. Please check your intention, faith and honesty are required.";
-
-   // 2026
-   echo "Hi, please check your intention. faith and honesty are required.";
+   echo "Whoops, something went wrong. Please check your intention, faith and honesty are required.";
 }
 ```
 
@@ -35,6 +32,11 @@ case 'something':
       break;
 ```
 
-How it work:
+How it work: **`Past << {time_range} >> Now`**
 
-**Past <- {time_range} -> Now**
+## whoops-hi
+In 2026, whoops becomes Hi.
+
+```php
+Hi, please check your intention. faith and honesty are required.
+```
