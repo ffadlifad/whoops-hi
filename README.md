@@ -1,5 +1,5 @@
-# whoops-hi
-Just one lightning code to track, guard and protect. 
+# Hmmm
+One lightning code to track, guard and protect. 
 
 Code: **`(faith == true && honesty == true) { check_your _intention(); }`**
 
@@ -19,14 +19,20 @@ try {
 ## Time Range
 If you catch some whoops, you can track using time_range.
 
-Function: **`time_range(“Year”);`**
+Function: **`time_range($var, 'year');`**
 
 Example:
 
 ```php
-// Complex case
-Case 'fadli': 
-      time_range(“100”); 
+$var = array(
+            'Name' => 'name 1', 'name 2', 'name 3',
+            'Date' => 'date 1', 'date 2', 'date 3',
+            'family_tree' => 'parents', 'grandparents', 'great grandparents'  
+            // ... etc.
+        );
+
+Case 'something': 
+      time_range($var, '100'); 
       break;
 ```
 
