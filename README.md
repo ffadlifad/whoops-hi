@@ -36,7 +36,7 @@ case 'something':
 How it work: **`Past << {time_range} >> Now`**
 
 ## Hi
-In 2026, i found something and that's why whoops becomes Hi.
+In 2026, i found something then whoops becomes Hi.
 
 ```php
 Hi, please check your intention. faith and honesty are required.
